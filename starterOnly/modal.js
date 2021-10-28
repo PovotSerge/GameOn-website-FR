@@ -20,6 +20,5 @@ function launchModal() {
   modalbg.style.display = "block";
 }
 
-// C'est prés intéressant pour moi
 
 
